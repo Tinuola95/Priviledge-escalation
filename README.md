@@ -2,4 +2,4 @@
 
 <p>
   <h3>Description</h3>
-In this lab we will cover basic enumeration and Priviledge escalation practise, the leading SIEM solution for collecting,Analyzing and Correlating machines and network logs in real-time.We will install,navigate and go through the various components of splunk and its functionality, and then ingest vpnlogs into splunk instance and try to analyze the logs. 
+In this laboratory session, we will utilize tools available in Kali Linux, such as nmap, to perform a comprehensive enumeration of a designated target system. Through this process, we aim to identify vulnerabilities within the target system's infrastructure and subsequently exploit these vulnerabilities to establish a foothold. Furthermore, we will explore techniques to escalate our privileges within the target system, ultimately seeking to attain root access.
