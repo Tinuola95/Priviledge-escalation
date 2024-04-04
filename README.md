@@ -6,6 +6,6 @@ In this laboratory session, we will utilize tools available in Kali Linux, such 
 
 <p>
   <h3>Tools</h3>
-<ol>
-<ul>nmap</ul>
-<ul>PwnKit</ul>
+
+<b>nmap</b>
+<b>PwnKit</b>
