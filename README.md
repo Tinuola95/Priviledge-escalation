@@ -1,1 +1,1 @@
-# Priviledge-escalation
+# Enumeration and Priviledge escalation Lab
