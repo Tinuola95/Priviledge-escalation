@@ -8,12 +8,12 @@ In this laboratory session, we will utilize tools available in Kali Linux, such 
 
 <h2>Tools </h2>
 
-- <b>nmap<</b>
-- - <b>PwnKit</b> 
+- <b>nmap</b>
+- <b>PwnKit</b> 
 
 <h2>Environments Used </h2>
 
 - <b>Kali Linux 6.5.0 </b>
-- <b>Windows 11</b> (21H2)
+- <b>Windows 11</b>
 
 <h2>Lab walk-through:</h2>
